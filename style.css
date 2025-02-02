@@ -112,7 +112,7 @@ h1 {
 }
 
 h1,
-h2 {
+.time > p {
     margin-bottom: 1.5rem;
 }
 
@@ -121,7 +121,7 @@ p {
     font-family: "Outfit", sans-serif;
 }
 
-h2 {
+.time > p {
     color: var(--brown-800);
     font-family: "YoungSerif";
     font-size: 1.75rem;
